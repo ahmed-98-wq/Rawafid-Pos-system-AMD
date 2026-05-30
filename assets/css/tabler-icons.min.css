@@ -1,0 +1,2 @@
+.ti{display:inline-flex;align-items:center;justify-content:center;font-style:normal;line-height:1}
+.ti::before{content:"";display:inline-block;width:1em;height:1em}
